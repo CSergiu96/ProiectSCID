@@ -1,0 +1,2 @@
+# ProiectSCID
+Automat secvential vhdl

@@ -1,0 +1,352 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+de:/programs/modelsim/examples
+Eautomat
+Z0 w1495480080
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/cuciu/Desktop/Proiect
+Z4 8C:/Users/cuciu/Desktop/Proiect/circuit.vhd
+Z5 FC:/Users/cuciu/Desktop/Proiect/circuit.vhd
+l0
+L4
+VhOXmX]kJAm56aAc=H_U4A2
+!s100 0I3c3IdV[cFb;[3iR49LB1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1495546636
+!i10b 1
+Z8 !s108 1495546636.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/circuit.vhd|
+Z10 !s107 C:/Users/cuciu/Desktop/Proiect/circuit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Astructural
+R1
+R2
+DEx4 work 7 automat 0 22 hOXmX]kJAm56aAc=H_U4A2
+l45
+L12
+VN<mZRB_7GIPgeC^L;ZzG@3
+!s100 c<gaJgRn`9kbC`^mKTMbb2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecircuit
+w1495318905
+R1
+R2
+Z13 dC:/Users/cuciu/Desktop/SCID
+8C:/Users/cuciu/Desktop/SCID/circuit.vhd
+FC:/Users/cuciu/Desktop/SCID/circuit.vhd
+l0
+L4
+Vmi1^keB=emcPS]e?PJ<<62
+!s100 lV7EikY2T^od7^XTe`QAO3
+R6
+32
+!s110 1495318956
+!i10b 1
+!s108 1495318956.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/SCID/circuit.vhd|
+!s107 C:/Users/cuciu/Desktop/SCID/circuit.vhd|
+!i113 1
+R11
+R12
+Atestbench
+w1495546633
+DEx4 work 7 circuit 0 22 mi1^keB=emcPS]e?PJ<<62
+R1
+R2
+R3
+8C:/Users/cuciu/Desktop/Proiect/test_circuit.vhd
+FC:/Users/cuciu/Desktop/Proiect/test_circuit.vhd
+l16
+L5
+VSb2caaz1cT3]`nZ;S`:A`3
+!s100 NbLz11Joh<1W]10aGX[:j2
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/test_circuit.vhd|
+!s107 C:/Users/cuciu/Desktop/Proiect/test_circuit.vhd|
+!i113 1
+R11
+R12
+Eic163
+Z14 w1495365294
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+R3
+Z17 8C:/Users/cuciu/Desktop/Proiect/ic163.vhd
+Z18 FC:/Users/cuciu/Desktop/Proiect/ic163.vhd
+l0
+L5
+VRh_Pee<RAak]CQ4UMDUjc2
+!s100 ;;F4g>cakh9DL4[OLHQ;[0
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/ic163.vhd|
+Z20 !s107 C:/Users/cuciu/Desktop/Proiect/ic163.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R15
+R16
+R1
+R2
+DEx4 work 5 ic163 0 22 Rh_Pee<RAak]CQ4UMDUjc2
+l17
+L14
+VQ_mQ?1P8^AT_TMk[[eL<>0
+!s100 PE`TEbBzKNi8IdIgf97F^3
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Einv
+Z21 w1495365552
+R1
+R2
+R3
+Z22 8C:/Users/cuciu/Desktop/Proiect/inv.vhd
+Z23 FC:/Users/cuciu/Desktop/Proiect/inv.vhd
+l0
+L5
+VPFRj[z1>6o98Z`^JAckl?2
+!s100 _kFGc9P=N@kon8Jjh@CVS3
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/inv.vhd|
+Z25 !s107 C:/Users/cuciu/Desktop/Proiect/inv.vhd|
+!i113 1
+R11
+R12
+Aprimitive
+R1
+R2
+DEx4 work 3 inv 0 22 PFRj[z1>6o98Z`^JAckl?2
+l13
+L12
+V7VPI[E8[oBRBoFk_Vbk`S2
+!s100 >OhhzdT_IoeDOjmfb`6K30
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Emux4
+Z26 w1495365556
+R1
+R2
+R3
+Z27 8C:/Users/cuciu/Desktop/Proiect/mux4.vhd
+Z28 FC:/Users/cuciu/Desktop/Proiect/mux4.vhd
+l0
+L4
+VA]c9hSjHAOR`=2LcUf4810
+!s100 bI=VN46XBDRNc?P`2;S_W0
+R6
+32
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/mux4.vhd|
+Z30 !s107 C:/Users/cuciu/Desktop/Proiect/mux4.vhd|
+!i113 1
+R11
+R12
+Abehavioural
+R1
+R2
+DEx4 work 4 mux4 0 22 A]c9hSjHAOR`=2LcUf4810
+l13
+L12
+VU5ZnRDklgkAn>Qgm17O1T2
+!s100 gkAIDUYkB263K`E@^lD350
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 4 mux4 0 22 Em^go1d01PLYP7cC4jC]H0
+l13
+L12
+VD_6S<GA1YB>@EM130e?]22
+!s100 JTghf@[HYb2fA_l1``oB43
+R6
+32
+!s110 1495317481
+!i10b 1
+!s108 1495317481.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/SCID/mux4.vhd|
+Z32 !s107 C:/Users/cuciu/Desktop/SCID/mux4.vhd|
+!i113 1
+R11
+R12
+w1495316700
+R13
+Z33 FC:/Users/cuciu/Desktop/SCID/mux4.vhd
+Z34 8C:/Users/cuciu/Desktop/SCID/mux4.vhd
+Emux4to1
+Z35 w1495316536
+R1
+R2
+R13
+R34
+R33
+l0
+L4
+VcDB5MM8NKFhNW1I51WL9O1
+!s100 oDK2kRYDNMb^6nl`U0_db1
+R6
+32
+Z36 !s110 1495316539
+!i10b 1
+Z37 !s108 1495316539.000000
+R31
+R32
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 7 mux4to1 0 22 cDB5MM8NKFhNW1I51WL9O1
+l12
+L11
+V=k]C>OojIaaj7M[_SK4QI2
+!s100 ]gX0e[b:a2^>b@0KFmV_o1
+R6
+32
+R36
+!i10b 1
+R37
+R31
+R32
+!i113 1
+R11
+R12
+Etest_ic163
+Z38 w1495318947
+R1
+R2
+R3
+Z39 8C:/Users/cuciu/Desktop/Proiect/test_ic163.vhd
+Z40 FC:/Users/cuciu/Desktop/Proiect/test_ic163.vhd
+l0
+L4
+VERPzY><=mK^Me2J7g5P4@0
+!s100 BW228UJzXK[o>2g5HI8;G3
+R6
+32
+R7
+!i10b 1
+R8
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/test_ic163.vhd|
+Z42 !s107 C:/Users/cuciu/Desktop/Proiect/test_ic163.vhd|
+!i113 1
+R11
+R12
+Atestbench
+R1
+R2
+Z43 DEx4 work 10 test_ic163 0 22 ERPzY><=mK^Me2J7g5P4@0
+l18
+L7
+Z44 VDlISDHF2S:fQaY]Nn?7Y>2
+Z45 !s100 n2LiYC`kJSmiijcPe00=11
+R6
+32
+R7
+!i10b 1
+R8
+R41
+R42
+!i113 1
+R11
+R12
+Etest_mux4
+Z46 w1495318195
+R1
+R2
+R3
+Z47 8C:/Users/cuciu/Desktop/Proiect/test_mux4.vhd
+Z48 FC:/Users/cuciu/Desktop/Proiect/test_mux4.vhd
+l0
+L4
+V?Eb^k@]j_GVcnFiJX@Aj@3
+!s100 hKWgCKQGm3YIa1hU1GVHT0
+R6
+32
+R7
+!i10b 1
+Z49 !s108 1495546635.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/cuciu/Desktop/Proiect/test_mux4.vhd|
+Z51 !s107 C:/Users/cuciu/Desktop/Proiect/test_mux4.vhd|
+!i113 1
+R11
+R12
+Atestbench
+R1
+R2
+DEx4 work 9 test_mux4 0 22 ?Eb^k@]j_GVcnFiJX@Aj@3
+l18
+L7
+VbUT[lBHgXPJ_D;KZD]^_>1
+!s100 1iL8`:>4UKacdhN25VoPb2
+R6
+32
+R7
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R11
+R12
